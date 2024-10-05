@@ -1,0 +1,3 @@
+загрузка gpu
+sudo apt install nvtop
+nvtop
